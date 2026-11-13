@@ -178,4 +178,3 @@ Nguồn ảnh: COCO val2017 / train2017 / Wikimedia Commons.
 
 - Tài liệu của buổi học: `README.md`, `docs/GUIDELINE.md`, `docs/CVAT_CHEATSHEET.md`, `docs/COCO_KEYPOINTS.md`, `CHECKPOINTS.md`, `RUBRIC.md`.
 - Bộ công cụ kiểm tra của repo: `lab.py` và `src/check_submission.py`.
-- Công cụ AI hỗ trợ: Sử dụng trợ lý AI để hỗ trợ rà soát kết quả từ script `src/check_submission.py`, đối chiếu các điểm lỗi `vis_flag` / `extra` / `lr_swap` theo đúng quy ước trong `docs/GUIDELINE.md`, và định dạng bảng báo cáo cá nhân.
