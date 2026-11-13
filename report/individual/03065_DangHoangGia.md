@@ -13,7 +13,7 @@ Dữ liệu: 12 ảnh người COCO val2017 / train2017 (Lin et al., 2014) và 8
 - Phiên bản CVAT (Help → About): Server `2.74.1` · UI `2.74.1`
 - Máy: hệ điều hành Windows 10/11 (64-bit) · RAM 8 GB (7.9 GB) · chạy CVAT chế độ lite
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
-- Giờ bắt đầu: 08:30
+- Giờ bắt đầu: 5:30
 - Giờ kết thúc: 11:05
 
 ## 1. Kiểm tra label (CP0)
